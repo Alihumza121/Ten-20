@@ -1,0 +1,12 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/login": "pages/login.js",
+  "/dashboard": "pages/dashboard.js",
+  "/api/auth/[...nextauth]": "pages/api/auth/[...nextauth].js",
+  "/api/timesheets": "pages/api/timesheets.js",
+  "/dashboard/timesheet/[id]": "pages/dashboard/timesheet/[id].js",
+  "/api/timesheets/[id]/entries": "pages/api/timesheets/[id]/entries.js",
+  "/api/projects": "pages/api/projects.js"
+}
